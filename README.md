@@ -134,19 +134,6 @@ Example:
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots here after uploading them to GitHub.
-
-Example:
-
-- Running Honeypot
-- SSH Connection Attempt
-- HTTP Request Logging
-- FTP Connection Logging
-- Generated JSON Logs
-
----
 
 ## 📚 Learning Objectives
 
