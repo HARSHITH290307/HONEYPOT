@@ -85,7 +85,7 @@ cd Simple-Honeypot
 ### Run the honeypot
 
 ```bash
-python simple_honeypot.py
+python3 simple_honeypot.py
 ```
 
 You should see output similar to:
