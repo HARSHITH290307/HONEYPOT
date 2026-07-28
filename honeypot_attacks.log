@@ -1,0 +1,18 @@
+2026-07-28 22:08:35,886 [INFO] SSH honeypot listening on 0.0.0.0:2222
+2026-07-28 22:08:35,887 [INFO] HTTP honeypot listening on 0.0.0.0:8080
+2026-07-28 22:08:35,888 [INFO] FTP honeypot listening on 0.0.0.0:2121
+2026-07-28 22:08:35,889 [INFO] ==================================================
+2026-07-28 22:08:35,889 [INFO] Honeypot running. Ctrl+C to stop.
+2026-07-28 22:08:35,889 [INFO] Logs: honeypot_attacks.log | JSON: honeypot_attacks.json
+2026-07-28 22:08:35,889 [INFO] Payloads: captured_payloads/
+2026-07-28 22:08:35,890 [INFO] ==================================================
+2026-07-28 22:10:09,308 [INFO] [FTP] Connection from 192.168.29.254:58954
+2026-07-28 22:21:29,018 [INFO] [SSH] Connection from 192.168.29.254:60242
+2026-07-28 22:24:06,194 [INFO] SSH honeypot listening on 0.0.0.0:2222
+2026-07-28 22:24:06,195 [INFO] HTTP honeypot listening on 0.0.0.0:8080
+2026-07-28 22:24:06,197 [INFO] FTP honeypot listening on 0.0.0.0:2121
+2026-07-28 22:24:06,197 [INFO] ==================================================
+2026-07-28 22:24:06,198 [INFO] Honeypot running. Ctrl+C to stop.
+2026-07-28 22:24:06,198 [INFO] Logs: honeypot_attacks.log | JSON: honeypot_attacks.json
+2026-07-28 22:24:06,198 [INFO] Payloads: captured_payloads/
+2026-07-28 22:24:06,198 [INFO] ==================================================
