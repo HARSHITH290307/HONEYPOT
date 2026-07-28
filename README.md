@@ -78,7 +78,7 @@ Simple-Honeypot/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Simple-Honeypot.git
+git clone https://github.com/HARSHITH290307/HONEYPOT.git
 cd Simple-Honeypot
 ```
 
