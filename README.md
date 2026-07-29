@@ -41,7 +41,6 @@ Simple-Honeypot/
 ├── captured_payloads/
 ├── README.md
 ├── requirements.txt
-└── .gitignore
 ```
 
 ---
